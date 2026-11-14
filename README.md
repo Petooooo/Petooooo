@@ -2,9 +2,11 @@
   <img src="./header.svg" alt="Jihwan Park — systems software, operating systems and storage" width="100%">
 </p>
 
-I'm Jihwan, a computer science and electronic engineering graduate. I'll join **KAIST's M.S. program in AI Systems and the Operating Systems Laboratory in spring 2027**.
+I graduated from **Kyung Hee University** with a B.S. in **Computer Science and Engineering** and a double major in **Electronic Engineering**. I'll begin my M.S. in **AI Systems at KAIST** (Operating Systems Laboratory) in spring 2027.
 
-My background spans memory-constrained ML, FPGA acceleration, and operating Linux infrastructure. These days I'm especially interested in the software between applications and storage hardware.
+I've worked on memory-constrained ML, FPGA acceleration, and Linux infrastructure. My current interests are operating systems, storage, and memory.
+
+[jihwan.park@kaist.ac.kr](mailto:jihwan.park@kaist.ac.kr)
 
 ### Interests
 
@@ -25,7 +27,3 @@ My background spans memory-constrained ML, FPGA acceleration, and operating Linu
 **Systems** &nbsp; Linux · Git · Docker · Kubernetes / K3s · Longhorn
 
 **Hardware & data** &nbsp; Verilog · FPGA · Zynq · ClickHouse · MinIO
-
----
-
-**Contact** &nbsp; [jihwan.park@kaist.ac.kr](mailto:jihwan.park@kaist.ac.kr)
