@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 278" role="img" aria-labelledby="title desc">
+<title id="title">Jihwan Park</title><desc id="desc">Systems software, operating systems, storage and memory systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101d2f"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+  <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#284259" stroke-opacity=".26" stroke-width=".75"/></pattern>
+</defs>
+<rect width="1200" height="278" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="278" rx="18" fill="url(#grid)" opacity=".65"/>
+<rect x="0" y="0" width="5" height="278" rx="2.5" fill="#72dcc7"/>
+<path d="M60 52h31m-31 0v14" stroke="#72dcc7" stroke-width="2" fill="none"/>
+<text x="60" y="108" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#f1f6fb">Jihwan Park</text>
+<text x="62" y="149" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#7edcc9">Systems Software · Operating Systems</text>
+<text x="62" y="179" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#bacbdb">Storage &amp; Memory Systems</text>
+<line x1="62" y1="205" x2="580" y2="205" stroke="#37536b"/>
+<text x="62" y="234" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.3" fill="#93a9bf">KAIST  /  INCOMING M.S.  /  SPRING 2027</text>
+<g transform="translate(822 50)" stroke="#7cabb0" stroke-width="2" fill="none">
+  <rect x="60" y="18" width="226" height="160" rx="10" fill="#11273a" stroke="#446c78"/>
+  <rect x="81" y="39" width="184" height="30" rx="5" fill="#19384b" stroke="#4c8590"/>
+  <rect x="81" y="84" width="184" height="30" rx="5" fill="#19384b" stroke="#4c8590"/>
+  <rect x="81" y="129" width="184" height="30" rx="5" fill="#19384b" stroke="#4c8590"/>
+  <path d="M26 54H81M26 99H81M26 144H81M265 54h44M265 99h44M265 144h44" stroke="#5f9c9e"/>
+  <circle cx="26" cy="54" r="5" fill="#7edcc9" stroke="none"/><circle cx="26" cy="99" r="5" fill="#7edcc9" stroke="none"/><circle cx="26" cy="144" r="5" fill="#7edcc9" stroke="none"/>
+  <circle cx="309" cy="54" r="5" fill="#7edcc9" stroke="none"/><circle cx="309" cy="99" r="5" fill="#7edcc9" stroke="none"/><circle cx="309" cy="144" r="5" fill="#7edcc9" stroke="none"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#bed8df" stroke="none">
+    <text x="94" y="59">KERNEL</text><text x="94" y="104">FILE SYSTEM</text><text x="94" y="149">I/O STACK</text>
+  </g>
+</g>
+</svg>
