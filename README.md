@@ -14,7 +14,7 @@ I've worked on memory-constrained ML, FPGA acceleration, and Linux infrastructur
 
 ### Selected experience
 
-| | |
+| Area | What I worked on |
 | :--- | :--- |
 | **Memory optimization** | Tensor lifetime analysis and buffer reuse in TensorFlow Lite Micro |
 | **Hardware acceleration** | Quantized CNN inference on Zynq FPGA |
