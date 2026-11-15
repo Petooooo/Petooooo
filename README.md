@@ -16,7 +16,7 @@ Operating Systems Laboratory
 
 - **Memory optimization** — Tensor lifetime analysis and buffer reuse in TensorFlow Lite Micro (up to 28.33% less peak memory in project evaluations).
 - **Hardware acceleration** — Quantized CNN inference on Zynq FPGA (36.5% lower FPGA area in project evaluation).
-- **ROK Air Force · AI systems infrastructure** — Since my July 7, 2025 assignment, independently built, troubleshot, and operated an on-premises K3s platform in a closed-network environment, including storage and service recovery.
+- **ROKAF · AI systems infrastructure** — Independently built, operated, and troubleshot a closed-network, on-premises K3s platform; received an award from the ROKAF Chief of Staff for this work.
 - **Linux kernel training (KDT)** — C/POSIX programming, scheduling, virtual memory, file systems, drivers, and kernel tracing/debugging.
 
 ### Tech stack
