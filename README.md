@@ -14,13 +14,15 @@ Operating Systems Laboratory
 
 ### Experience
 
-- **Linux systems (KDT)** — Completed the *Linux System & Kernel Expert Course*: system programming (processes, threads, IPC), kernel internals (scheduling, virtual memory, VFS/file systems), device drivers, and tracing/dump analysis (`ftrace`, `eBPF/BCC`, `crash`/`vmcore`).
-- **Memory optimization** — Tensor lifetime analysis and buffer reuse in TensorFlow Lite Micro.
-- **Hardware acceleration** — Quantized CNN inference on Zynq FPGA.
-- **Infrastructure** — K3s/Kubernetes, persistent storage, private artifact distribution, and service recovery.
+- **Memory optimization** — Tensor lifetime analysis and buffer reuse in TensorFlow Lite Micro (up to 28.33% less peak memory in project evaluations).
+- **Hardware acceleration** — Quantized CNN inference on Zynq FPGA (36.5% lower FPGA area in project evaluation).
+- **Systems engineering** — Linux/K3s, Longhorn-backed storage, private artifact distribution, and stateful service recovery.
+- **Linux kernel training (KDT)** — C/POSIX programming, scheduling, virtual memory, file systems, drivers, and kernel tracing/debugging.
 
 ### Tech stack
 
 - **Languages:** C · C++ · Python · Shell · TypeScript · SQL
 - **Systems:** Linux · Git · Docker · Kubernetes / K3s · Longhorn
 - **Hardware & data:** Verilog · FPGA · Zynq · ClickHouse · MinIO
+
+**Study notes:** [systems-notes](https://github.com/Petooooo/systems-notes)
