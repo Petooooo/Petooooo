@@ -14,7 +14,7 @@ Operating Systems Laboratory
 
 ### Experience
 
-- **Linux systems** — KDT Linux System & Kernel Expert Course; kernel tracing with `ftrace` and `KernelShark`.
+- **Linux systems (KDT)** — Completed the *Linux System & Kernel Expert Course*: system programming (processes, threads, IPC), kernel internals (scheduling, virtual memory, VFS/file systems), device drivers, and tracing/dump analysis (`ftrace`, `eBPF/BCC`, `crash`/`vmcore`).
 - **Memory optimization** — Tensor lifetime analysis and buffer reuse in TensorFlow Lite Micro.
 - **Hardware acceleration** — Quantized CNN inference on Zynq FPGA.
 - **Infrastructure** — K3s/Kubernetes, persistent storage, private artifact distribution, and service recovery.
